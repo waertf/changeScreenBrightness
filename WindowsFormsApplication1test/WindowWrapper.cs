@@ -9,7 +9,7 @@ namespace WindowsFormsApplication1test
     public class WindowWrapper
     {
         [DllImport("user32")]
-        public static extern int GetWindowLong(IntPtr hWnd, GWL nIndex);
+        public static extern int GetWindowLongPtr(IntPtr hWnd, GWL nIndex);//GetWindowLong
         [DllImport("user32.dll")]
         public static extern bool SetLayeredWindowAttributes(IntPtr hWnd, int crKey, byte alpha, LWA dwFlags);
         [DllImport("user32")]
