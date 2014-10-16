@@ -13,7 +13,7 @@ namespace WindowsFormsApplication1test
         [DllImport("user32.dll")]
         public static extern bool SetLayeredWindowAttributes(IntPtr hWnd, int crKey, byte alpha, LWA dwFlags);
         [DllImport("user32")]
-        public static extern int SetWindowLong(IntPtr hWnd, GWL nIndex, WS_EX dsNewLong);
+        public static extern int SetWindowLongPtr(IntPtr hWnd, GWL nIndex, WS_EX dsNewLong);//SetWindowLong
 
         public enum GWL
         {

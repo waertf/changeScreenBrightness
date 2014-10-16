@@ -40,7 +40,7 @@ namespace WindowsFormsApplication1test
         }
         void Form1_Load(object sender, EventArgs e)
         {
-            WindowWrapper.SetWindowLong(this.Handle, WindowWrapper.GWL.ExStyle, WindowWrapper.WS_EX.Layered | WindowWrapper.WS_EX.Transparent);
+            WindowWrapper.SetWindowLongPtr(this.Handle, WindowWrapper.GWL.ExStyle, WindowWrapper.WS_EX.Layered | WindowWrapper.WS_EX.Transparent);
         }
     }
 }
