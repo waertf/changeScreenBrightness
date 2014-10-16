@@ -1,0 +1,11 @@
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\bin\Debug\WindowsFormsApplication1test.exe
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\bin\Debug\WindowsFormsApplication1test.pdb
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\obj\Debug\WindowsFormsApplication1test.csprojResolveAssemblyReference.cache
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\obj\Debug\WindowsFormsApplication1test.Form1.resources
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\obj\Debug\WindowsFormsApplication1test.Properties.Resources.resources
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\obj\Debug\WindowsFormsApplication1test.csproj.GenerateResource.Cache
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\obj\Debug\WindowsFormsApplication1test.exe
+c:\users\wavegisaaa\documents\visual studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\obj\Debug\WindowsFormsApplication1test.pdb
+C:\Users\wavegisAAA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\wavegisAAA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\wavegisAAA\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1test\WindowsFormsApplication1test\bin\Debug\WindowsFormsApplication1test.exe.config
